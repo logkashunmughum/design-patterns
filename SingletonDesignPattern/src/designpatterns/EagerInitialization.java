@@ -24,6 +24,7 @@ public class EagerInitialization {
 		if(instance1 == instance2) {
 			System.out.println("Singleton pattern using Eager initialization verified successfully");
 		}
+		
 
 	}
 
